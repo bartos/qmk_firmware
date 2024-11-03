@@ -25,3 +25,6 @@
 #define AW20216S_CS_PIN_1 A15
 #define AW20216S_CS_PIN_2 B9
 #define AW20216S_EN_PIN C13
+
+// #define TAPPING_TERM 175
+// #define TAPPING_TERM_PER_KEY
